@@ -1,6 +1,5 @@
 # VBA-Excel
-## Treinamento Lógica Programação Excel
  
-Trata-se de um pequeno treinamento sobre logica de programação.
+Repositório com todos os meus desenvolvimentos baseados em VBA.
 
-Você aprenderá conceitos e praticará no próprio Excel usando o VBA (Visual Basic for Application).
+Veja se as ferramentas podem ser úteis a você e tenha um bom aproveitamente como exemplo para seus projetos.
